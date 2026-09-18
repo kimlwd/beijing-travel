@@ -1,3 +1,4 @@
+@media (max-width: 650px) { .day-card, .day-summary, .day-main, .day-details { min-width: 0; } }
 :root {
   --paper: #f4f0e8; --paper-2: #fbf9f4; --ink: #202124; --muted: #70736f; --line: #d9d4c9;
   --navy: #18324a; --red: #9d3d32; --orange: #c97842; --sage: #6d7867; --shadow: 0 18px 45px rgba(38, 40, 34, .08);
